@@ -1,2 +1,3 @@
 docker pull supervisely/nn-yolo-v3
-docker pull supervisely/nn-unet-v2:6.0.26
+
+
